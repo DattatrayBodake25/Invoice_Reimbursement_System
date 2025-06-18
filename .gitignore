@@ -1,0 +1,8 @@
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+Pipfile.lock
+poetry.lock
