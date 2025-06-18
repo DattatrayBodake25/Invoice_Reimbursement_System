@@ -16,7 +16,7 @@ This project demonstrates a full-stack intelligent document processing system, b
 ---
 
 ## 📂 Project Structure
-
+```
 invoice_reimbursement_system/
 │
 ├── app/ # All your core app code
@@ -40,7 +40,7 @@ invoice_reimbursement_system/
 ├── requirements.txt # All required libraries
 ├── .env # Store Gemini API Key
 └── README.md # Documentation
-
+```
 
 ---
 
